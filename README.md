@@ -1,8 +1,8 @@
 # colors-css
 Get all the colors that are included in CSS.
 
-[![npm](https://img.shields.io/npm/v/colors-css)](https://npm.im/colors-css)
-[![npm](https://img.shields.io/npm/dt/colors-css)](https://npm.im/colors-css)
+[![npm](https://img.shields.io/npm/v/@hiimjustin000/colors-css)](https://npm.im/colors-css)
+[![npm](https://img.shields.io/npm/dt/@hiimjustin000/colors-css)](https://npm.im/colors-css)
 [![David](https://img.shields.io/david/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css)
 [![David](https://img.shields.io/david/dev/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css?type=dev)
 [![GitHub](https://img.shields.io/github/license/bwbjustin/colors-css)](https://github.com/bwbjustin/colors-css/blob/master/LICENSE)  
@@ -11,13 +11,13 @@ Get all the colors that are included in CSS.
 # Colors
 All CSS colors are properties of an initiated `Colors` class, which takes the type of color to use. For example:
 ```js
-const Colors = require("colors-css");
+const Colors = require("@hiimjustin000/colors-css");
 const colors = new Colors("hex");
 colors.red; // FF0000
 Colors.color("DEADED").hex; // DEADED
 ```
 ```js
-const Colors = require("colors-css");
+const Colors = require("@hiimjustin000/colors-css");
 const colors = new Colors("rgb");
 colors.red; // [255, 0, 0]
 Colors.color("DEADED").rgb; // [222, 173, 237]
