@@ -1,5 +1,5 @@
 {
-  "name": "colors-css",
+  "name": "@hiimjustin000/colors-css",
   "version": "1.0.0",
   "description": "Get all the colors that are included in CSS.",
   "main": "dist/index.js",
@@ -12,6 +12,9 @@
   },
   "bin": {
     "colors": "bin/colors"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": "github:bwbjustin/colors-css",
   "homepage": "https://bwbjustin.github.io/colors-css",
