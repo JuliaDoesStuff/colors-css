@@ -1,6 +1,6 @@
 {
   "name": "@hiimjustin000/colors-css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get all the colors that are included in CSS.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

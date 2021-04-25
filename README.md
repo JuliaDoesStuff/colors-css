@@ -1,12 +1,12 @@
 # colors-css
 Get all the colors that are included in CSS.
 
-[![npm](https://img.shields.io/npm/v/@hiimjustin000/colors-css)](https://npm.im/colors-css)
-[![npm](https://img.shields.io/npm/dt/@hiimjustin000/colors-css)](https://npm.im/colors-css)
+[![npm](https://img.shields.io/npm/v/@hiimjustin000/colors-css)](https://npm.im/@hiimjustin000/colors-css)
+[![npm](https://img.shields.io/npm/dt/@hiimjustin000/colors-css)](https://npm.im/@hiimjustin000/colors-css)
 [![David](https://img.shields.io/david/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css)
 [![David](https://img.shields.io/david/dev/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css?type=dev)
 [![GitHub](https://img.shields.io/github/license/bwbjustin/colors-css)](https://github.com/bwbjustin/colors-css/blob/master/LICENSE)  
-[![NPM](https://nodei.co/npm/@hiimjustin000/colors-css.png)](https://nodei.co/npm/colors-css/)
+[![NPM](https://nodei.co/npm/@hiimjustin000/colors-css.png)](https://nodei.co/npm/@hiimjustin000/colors-css/)
 
 # Colors
 All CSS colors are properties of an initiated `Colors` class, which takes the type of color to use. For example:
