@@ -6,7 +6,7 @@ Get all the colors that are included in CSS.
 [![David](https://img.shields.io/david/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css)
 [![David](https://img.shields.io/david/dev/bwbjustin/colors-css)](https://david-dm.org/bwbjustin/colors-css?type=dev)
 [![GitHub](https://img.shields.io/github/license/bwbjustin/colors-css)](https://github.com/bwbjustin/colors-css/blob/master/LICENSE)  
-[![NPM](https://nodei.co/npm/colors-css.png)](https://nodei.co/npm/colors-css/)
+[![NPM](https://nodei.co/npm/@hiimjustin000/colors-css.png)](https://nodei.co/npm/colors-css/)
 
 # Colors
 All CSS colors are properties of an initiated `Colors` class, which takes the type of color to use. For example:
