@@ -1,0 +1,46 @@
+{
+  "name": "colors-css",
+  "version": "1.0.0",
+  "description": "Get all the colors that are included in CSS.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "mocha src/test",
+    "build": "tsc",
+    "docs": "typedoc src",
+    "lint": "eslint --ext .ts ./src"
+  },
+  "bin": {
+    "colors": "bin/colors"
+  },
+  "repository": "github:bwbjustin/colors-css",
+  "homepage": "https://bwbjustin.github.io/colors-css",
+  "keywords": [
+    "css",
+    "color",
+    "colour",
+    "colors",
+    "colours",
+    "css-colors",
+    "css-colours",
+    "colors-css",
+    "colours-css"
+  ],
+  "author": "Justin Pridgen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "color-convert": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/color-convert": "^2.0.0",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^14.14.41",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.24.0",
+    "ts-node": "^9.1.1",
+    "typedoc": "^0.20.35",
+    "typescript": "^4.2.4"
+  }
+}
